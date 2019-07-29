@@ -1,3 +1,4 @@
+# Not for use with PanHandler - This is a python2.7 script
 # Destroy-PAN-NSX-Objects
 This python2.7 script is for removing orphaned Panorama NSX objects from NSX Manager
 
